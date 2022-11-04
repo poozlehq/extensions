@@ -9,6 +9,12 @@
       "key": "search_issue",
       "description": "Search issue in JIRA board",
       "command_type": "react"
+    },
+    {
+      "name": "Create issue",
+      "key": "create_issue",
+      "description": "Create issue in JIRA board",
+      "command_type": "react"
     }
   ],
   "inputBlocks": [
